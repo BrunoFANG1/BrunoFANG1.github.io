@@ -9,3 +9,7 @@ venue: 'First Workshop on Out-of-Distribution Generalization in Robotics at Conf
 paperurl: 'https://drive.google.com/file/d/10BI6IhTAY8Zf6pmeVfVk1GrxAssGb1g8/view?usp=sharing'
 link: 'https://sites.google.com/view/prft'
 ---
+<div style="display: flex; justify-content: space-around;">
+  <img src="images/pub_1.png" alt="Image 1 Alt Text" style="width: 48%;"/>
+  <img src="images/pub_2.png" alt="Image 2 Alt Text" style="width: 48%;"/>
+</div>
