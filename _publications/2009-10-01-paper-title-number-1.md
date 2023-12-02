@@ -6,5 +6,5 @@ excerpt: 'Image-based reinforcement learning (RL) faces significant challenges i
 In this paper, we leverage the observation that the predict rewards under domain shift, even imperfect, can still be useful signal to guide fine-tuning. We exploit this property to fine-tune the policy from reward prediction in the target domain. We have found that, even under significant domain shift, the predicted reward can still provide meaningful signal and fine-tuning substantially improves the policy. Our approach, termed Predicted Reward Fine-tuning (PRFT), improves performance across diverse tasks in both simulated benchmarks and real-world experiments.'
 date: 2023-10-17
 venue: 'First Workshop on Out-of-Distribution Generalization in Robotics at Conference on Robot Learning (CoRL)'
-paperurl: 'https://drive.google.com/file/d/10BI6IhTAY8Zf6pmeVfVk1GrxAssGb1g8/view?usp=sharing'
+paperurl: 'https://sites.google.com/view/prft'
 ---
