@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a master student majored in Computer Science at Johns Hopkins University. Previously, I was an undergraduate student majored in Engineering Mechanics at Dalian University of Technology. My major focus before grad school is Computational Fluid Dynamics(CFD).  
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm currently a master student majored in Computer Science at [Johns Hopkins University](https://www.jhu.edu). Previously, I was an undergraduate student majored in Engineering Mechanics at the [DUT-BSU Joint Institute](https://dbji.dlut.edu.cn/English/About_Us/About_Us.htm), [Dalian University of Technology](https://en.dlut.edu.cn). My major focus before grad school is Computational Fluid Dynamics(CFD). After viewing the transformative potential of AI, I piveted my focus on robot learning. Specifically, research questions I'm interested in exploring are:
+1. How can robots achieve higher intelligence by behavior cloning on human demonstrations?
+2. How can robots reason and plan for diverse tasks? Is it possible to have a foundation world model for decision-making?
+3. How to extract real world information or generate high-quality simulations for training AI agents?
 
 A data-driven personal website
 ======
