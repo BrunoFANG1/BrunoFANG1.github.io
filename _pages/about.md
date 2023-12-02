@@ -1,4 +1,14 @@
 ---
+layout: page
+title: "About"
+---
+
+<div style="text-align: justify;">
+  Your about content here.
+</div>
+
+
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
