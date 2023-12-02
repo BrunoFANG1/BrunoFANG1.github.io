@@ -2,14 +2,10 @@
 title: "Adapting Visual Policies via Predicted Rewards"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: ''
+excerpt: 'Image-based reinforcement learning (RL) faces significant challenges in generalization when the visual environment undergoes substantial changes between the training and testing phases. Under such circumstances, learned policies may not perform well leading to degraded results. Previous approaches to this issue largely have aimed to broaden the training observation distribution, employing techniques like data augmentation and domain randomization. Nevertheless, given the sequential nature of the decision-making problem, and residual errors propagated by the policy model can accumulate throughout the trajectory, resulting in highly degraded performance. 
+In this paper, we leverage the observation that the predict rewards under domain shift, even imperfect, can still be useful signal to guide fine-tuning. We exploit this property to fine-tune the policy from reward prediction in the target domain. We have found that, even under significant domain shift, the predicted reward can still provide meaningful signal and fine-tuning substantially improves the policy. Our approach, termed Predicted Reward Fine-tuning (PRFT), improves performance across diverse tasks in both simulated benchmarks and real-world experiments. More information is available at project web page: '
 date: 2023-10-17
 venue: 'First Workshop on Out-of-Distribution Generalization in Robotics at Conference on Robot Learning (CoRL)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://drive.google.com/file/d/10BI6IhTAY8Zf6pmeVfVk1GrxAssGb1g8/view?usp=sharing'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
