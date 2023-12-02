@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a master student majored in Computer Science at [Johns Hopkins University](https://www.jhu.edu). Previously, I was an undergraduate student majored in Engineering Mechanics at the [DUT-BSU Joint Institute](https://dbji.dlut.edu.cn/English/About_Us/About_Us.htm), [Dalian University of Technology](https://en.dlut.edu.cn). My major focus before grad school is Computational Fluid Dynamics(CFD). After viewing the transformative potential of AI, I piveted my focus on **robot learning, foundation model, reinforcement learning**. 
+I'm currently a master student majored in Computer Science at [Johns Hopkins University](https://www.jhu.edu). Previously, I was an undergraduate student majored in Engineering Mechanics at the [DUT-BSU Joint Institute](https://dbji.dlut.edu.cn/English/About_Us/About_Us.htm), [Dalian University of Technology](https://en.dlut.edu.cn). My major focus before grad school was Computational Fluid Dynamics(CFD). After viewing the transformative potential of AI, I piveted my focus on **robot learning, foundation model, reinforcement learning**. 
 
 Specifically, research questions I'm interested in exploring are:
 1. How can robots achieve higher intelligence by behavior cloning on human demonstrations?
