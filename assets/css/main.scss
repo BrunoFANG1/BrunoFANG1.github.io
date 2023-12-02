@@ -41,6 +41,8 @@
 @import "print";
 
 // Add this at the bottom of your main.scss file
-.publications-container p {
+// Justify text for publication excerpts and about content
+.publication-excerpt, .about-content {
   text-align: justify;
 }
+
