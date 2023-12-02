@@ -8,4 +8,3 @@ date: 2023-10-17
 venue: 'First Workshop on Out-of-Distribution Generalization in Robotics at Conference on Robot Learning (CoRL)'
 paperurl: 'https://drive.google.com/file/d/10BI6IhTAY8Zf6pmeVfVk1GrxAssGb1g8/view?usp=sharing'
 ---
-[Download pdf here](http://academicpages.github.io/files/paper1.pdf)
