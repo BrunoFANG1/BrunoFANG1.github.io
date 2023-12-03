@@ -7,7 +7,7 @@ In this paper, we leverage the observation that the predict rewards under domain
 date: 2023-10-17
 venue: 'First Workshop on Out-of-Distribution Generalization in Robotics at Conference on Robot Learning (CoRL)'
 paperurl: 'https://drive.google.com/file/d/10BI6IhTAY8Zf6pmeVfVk1GrxAssGb1g8/view?usp=sharing'
-link: 'https://sites.google.com/view/prft'
+link: 'https://drive.google.com/file/d/10BI6IhTAY8Zf6pmeVfVk1GrxAssGb1g8/view?usp=sharing'
 #<img src="/images/pub_3.png" alt="Image Description">
 ---
 <img src="/images/pub_2.png" alt="Image Description">
