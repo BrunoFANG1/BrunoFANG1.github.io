@@ -8,10 +8,10 @@ date: 2023-10-17
 venue: 'First Workshop on Out-of-Distribution Generalization in Robotics at Conference on Robot Learning (CoRL)'
 paperurl: 'https://drive.google.com/file/d/10BI6IhTAY8Zf6pmeVfVk1GrxAssGb1g8/view?usp=sharing'
 link: 'https://sites.google.com/view/prft'
----
 <div style="display: flex; justify-content: space-around;">
   <img src="/images/pub_3.png" alt="Image 1 Alt Text" style="width: 90%;"/>
 </div>
 
 Citation:
 Weiyao Wang, *Xinyuan Fang*, Gregory D. Hager. Adapting Visual Policies via Predicted Rewards. *First Workshop on Out-of-Distribution Generalization in Robotics at Conference on Robot Learning (CoRL)*.
+---
