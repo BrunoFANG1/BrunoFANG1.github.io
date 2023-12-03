@@ -10,6 +10,6 @@ paperurl: 'https://drive.google.com/file/d/10BI6IhTAY8Zf6pmeVfVk1GrxAssGb1g8/vie
 link: 'https://sites.google.com/view/prft'
 #<img src="/images/pub_3.png" alt="Image Description">
 ---
-<img src="/images/pub_3.png" alt="Image Description">
+<img src="/images/pub_2.png" alt="Image Description">
 Citation:
 Weiyao Wang, *Xinyuan Fang*, Gregory D. Hager. Adapting Visual Policies via Predicted Rewards. *First Workshop on Out-of-Distribution Generalization in Robotics at Conference on Robot Learning (CoRL)*.
