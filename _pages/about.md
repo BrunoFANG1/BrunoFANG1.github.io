@@ -15,4 +15,6 @@ Specifically, research questions I'm interested in exploring are:
 1. How can robots achieve higher intelligence by behavior cloning on human demonstrations?
 2. How can robots reason and plan for diverse tasks? Is it possible to have a foundation world model for decision-making?
 3. How to extract real world information or generate high-quality simulations for training AI agents?
+
+My CV can be found [here](https://docs.google.com/document/d/12wY0YAcxGgKbdN6DnOwJw0C-Pk07-y4X7-CvRjzumdQ/edit?usp=sharing).
 </div>
