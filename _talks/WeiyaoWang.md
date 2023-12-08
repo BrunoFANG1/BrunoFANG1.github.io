@@ -12,4 +12,8 @@ My main contribution in this project is to provide theoretical analysis on regre
 
 Reinforcement learning with perturbed action: If the imitation learning algorithm learns to replicate the epxert's policy under the state distribution induced by the expert, this leads to a regret bound that grows quadratically in the time horizon of the task. [1]
 
-[1] Ross, S., Bagnell, D., & Dey, A. (2010). Adapting Visual Policies via Predicted Rewards. In Proceedings of the 9th International Conference on Machine Learning (ICML-10) (pp. 771-778). URL: http://proceedings.mlr.press/v9/ross10a/ross10a.pdf
+Reinforcement learning with perturbed reward: Wait for write up...
+
+Download published pdf [here](https://drive.google.com/file/d/10BI6IhTAY8Zf6pmeVfVk1GrxAssGb1g8/view)
+
+[1] Ross, S., & Bagnell, D. (2010). Efficient Reductions for Imitation Learning. In Y. W. Teh & M. Titterington (Eds.), Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics (pp. 661-668). PMLR. [PDF](https://www.google.com/search?client=safari&rls=en&q=Efficient+Reductions+for+Imitation+Learning&ie=UTF-8&oe=UTF-8)
