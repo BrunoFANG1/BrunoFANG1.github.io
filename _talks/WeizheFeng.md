@@ -3,7 +3,7 @@ title: "Drone flight with variant wing with folding tip structure"
 collection: talks
 type: "Undergraduate Research"
 permalink: /talks/WeizheFeng
-venue: "Dalian University of Technology, School of Aeronautics and Astronautics"
+venue: "School of Aeronautics and Astronautics, Dalian University of Technology"
 date: 2021-06-06
 location: "Dalian, China"
 ---
