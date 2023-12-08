@@ -7,6 +7,7 @@ date: 2023-08-08
 location: "Baltimore, US"
 ---
 
+![Alt text for image](/images/MAE.png)
 I proposed a saliency-based masking technique over the conventional random masking to pretrain a visual foundation model called Masked Autoencoder (MAE). 
 
 In the pretrain phase, I utilized the cc3m dataset, which pairs three million images with descriptive captions. These captions inherently draw human attention to the most informative elements of an image—for instance, if an image’s caption is “an elephant near the river”, people will pay more attention to the elephant rather than peripheral backgrounds like the sky or rocks. Aiming to replicate this discerning attention in machine learning, I leveraged the CLIP model with the GRAD-CAM technique to generate saliency maps.
