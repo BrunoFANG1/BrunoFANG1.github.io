@@ -14,6 +14,6 @@ Reinforcement learning with perturbed action: If the imitation learning algorith
 
 Reinforcement learning with perturbed reward: Wait for write up...
 
-Download published pdf [here](https://drive.google.com/file/d/10BI6IhTAY8Zf6pmeVfVk1GrxAssGb1g8/view)
+Download published workshop paper [here](https://drive.google.com/file/d/10BI6IhTAY8Zf6pmeVfVk1GrxAssGb1g8/view)
 
 [1] Ross, S., & Bagnell, D. (2010). Efficient Reductions for Imitation Learning. In Y. W. Teh & M. Titterington (Eds.), Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics (pp. 661-668). PMLR. [PDF](https://www.google.com/search?client=safari&rls=en&q=Efficient+Reductions+for+Imitation+Learning&ie=UTF-8&oe=UTF-8)
