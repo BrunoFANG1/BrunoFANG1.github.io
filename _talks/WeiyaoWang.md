@@ -4,7 +4,7 @@ collection: talks
 type: "Graduate Research"
 permalink: /talks/WeiyaoWang
 venue: "Department of Computer Science, Johns Hopkins University"
-date: 2023-10-30
+date: 2023-09-20
 location: "Baltimore, US"
 ---
 
