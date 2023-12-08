@@ -8,7 +8,7 @@ date: 2023-10-30
 location: "Baltimore, US"
 ---
 
-My main contribution in this project is to provide theoretical analysis on regret bounds under different pertubation.
+My main contribution is to provide theoretical analysis on regret bounds under different pertubation.
 
 Reinforcement learning with perturbed action: If the imitation learning algorithm learns to replicate the epxert's policy under the state distribution induced by the expert, this leads to a regret bound that grows quadratically in the time horizon of the task. [1]
 
