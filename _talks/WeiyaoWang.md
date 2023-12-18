@@ -13,7 +13,8 @@ My main contribution is to provide theoretical analysis on regret bounds under d
 
 Reinforcement learning with perturbed action: If the imitation learning algorithm learns to replicate the epxert's policy under the state distribution induced by the expert, this leads to a regret bound that grows quadratically in the time horizon of the task. [1]
 ![Alt text for image](/images/Equation.png)
-<img src="/images/pub_3.png" alt="Alt text for image" width="500" height="300">
+<img src="/images/Equation.png" alt="Alt text for image" class="center-image" width="800" height="900">
+
 
 
 
