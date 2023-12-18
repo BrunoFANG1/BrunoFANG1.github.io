@@ -12,6 +12,9 @@ location: "Baltimore, US"
 My main contribution is to provide theoretical analysis on regret bounds under different pertubation to explain the observation that the predicted rewards under domain shift can still be a useful signal to guide fine-tuning in our experiments.
 
 Reinforcement learning with perturbed action: If the imitation learning algorithm learns to replicate the epxert's policy under the state distribution induced by the expert, this leads to a regret bound that grows quadratically in the time horizon of the task. [1]
+![Alt text for image](/images/Equation.png)
+![Alt text for image](/images/Equation.png){: width="500" height="300"}
+
 
 Reinforcement learning with perturbed reward: Wait for write up...
 
