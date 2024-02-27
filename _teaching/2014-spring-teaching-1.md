@@ -10,4 +10,4 @@ location: "Baltimore, Maryland, US"
 
 NLP-based news recommendation system that recommends news articles of different perspectives to the user, built as a Google Chrome extension with ML models hosted on AWS EC2.
 
-(Github Repo)[https://github.com/AMKCode/AwarenessPLUS]
+[Github Repo](https://github.com/AMKCode/AwarenessPLUS)
