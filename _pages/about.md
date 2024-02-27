@@ -16,6 +16,6 @@ Specifically, research questions I'm interested in exploring are:
 2. How can robots reason and plan for diverse tasks? Is it possible to have a world model for decision-making or all tasks?
 3. How to extract real world information or generate high-quality physically-realistic simulations for training AI agents?
 
-My recent goal is to incorporate physic laws into common generative models -> Generative model should model \\p(x, Physics Rules)\\ instead of \\p(x)\\
+My recent goal is to incorporate physic laws(e.g. Newton's Laws) into common generative models -> Generative model should model p(x, Physic) instead of p(x)
 My CV can be found [here](https://docs.google.com/document/d/12wY0YAcxGgKbdN6DnOwJw0C-Pk07-y4X7-CvRjzumdQ/edit?usp=sharing).
 </div>
