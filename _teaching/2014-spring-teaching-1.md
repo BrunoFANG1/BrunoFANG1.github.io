@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Awareness+: NLP System for Diversified News Recommendation"
 collection: teaching
-type: "Undergraduate course"
+type: "EN.601.686 Machine Learning: Artificial Intelligence System Design & Development"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Johns Hopkins University"
+date: 2023-12-15
+location: "Baltimore, Maryland, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+NLP-based news recommendation system that recommends news articles of different perspectives to the user, built as a Google Chrome extension with ML models hosted on AWS EC2.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+(Github Repo)[https://github.com/AMKCode/AwarenessPLUS]
